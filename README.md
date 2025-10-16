@@ -1,7 +1,4 @@
--Hi, I’m @Ambient2008             
--I’m interested in AI/ML  
--I’m currently learning Python  
--How to reach me kiran.sah90@gmail.com  
+
 
 
 <!---
